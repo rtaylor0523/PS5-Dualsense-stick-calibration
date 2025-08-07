@@ -1,4 +1,4 @@
-# PS5-Dualsense-stick-calibration
+# PS5-Dualsense-Stick-Calibration
 Stick drift is a controller malfunction in which either controller stick can perform a function without user input. This malfunction causes a disruption in gameplay and the overall performance of the gamer using the controller. Stick drift can be a result of either issues in hardware or software. In this project, I created a GUI to recalibrate a PS5 Dualsense controller and elimated any software bugs in the controller's code. 
 
 **Add Ons**
